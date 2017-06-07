@@ -2,7 +2,7 @@ DrawMeshWithMotionVectors
 =========================
 
 This is an example showing how to generate per-object motion vectors correctly
-while using Graphics.DrawMesh to draw objects.
+while using [Graphics.DrawMesh] to draw objects.
 
 ![gif](http://i.imgur.com/iKeWAAG.gif)
 
